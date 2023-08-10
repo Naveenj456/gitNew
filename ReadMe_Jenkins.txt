@@ -1,0 +1,2 @@
+usename : devops
+password : redhat 
